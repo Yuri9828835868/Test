@@ -1,0 +1,32 @@
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\appsettings.json
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Clz Work.exe
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Clz Work.deps.json
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Clz Work.runtimeconfig.json
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Clz Work.dll
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Clz Work.pdb
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.csproj.AssemblyReference.cache
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.AssemblyInfoInputs.cache
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.AssemblyInfo.cs
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.csproj.CoreCompileInputs.cache
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\staticwebassets\msbuild.Clz Work.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\staticwebassets\msbuild.build.Clz Work.props
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Clz Work.props
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Clz Work.props
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\scopedcss\bundle\Clz Work.styles.css
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.csproj.Up2Date
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.dll
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\refint\Clz Work.dll
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.pdb
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\Clz Work.genruntimeconfig.cache
+C:\Users\Yuri Maharjan\source\repos\Clz Work\Clz Work\obj\Debug\net8.0\ref\Clz Work.dll

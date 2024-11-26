@@ -1,0 +1,6 @@
+@Clz_Work_HostAddress = http://localhost:5153
+
+GET {{Clz_Work_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
