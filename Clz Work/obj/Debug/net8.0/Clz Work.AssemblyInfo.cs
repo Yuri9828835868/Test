@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Clz Work")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7826d087ecdcc0a5a47c95405037cf33c4b61c19")]
 [assembly: System.Reflection.AssemblyProductAttribute("Clz Work")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Clz Work")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
